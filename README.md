@@ -1,0 +1,9 @@
+Key steps I followed:
+
+1. Used git rebase add-echo and git rebase add-reverse on top of master in sequence.
+
+2. Resolved any conflicts carefully, verified functionality.
+
+3. Cleaned up the history with interactive rebase (git rebase -i) to match the expected structure.
+
+4. Pushed the result to my private repo as instructed, without forking.
